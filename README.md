@@ -9,7 +9,7 @@ These mindmaps provide a navigable representation of the concepts, definitions, 
 Explore the mindmaps directly in your browser:
 
 - "Mindmap I — Interactive Website" ([syntrometry-mindmap.html](https://syntrometry-mindmap.netlify.app))
-- "Mindmap II — Interactive Website" ([syntrometry-mindmap.html](https://modernized-syntrometry.netlify.app))
+- "Mindmap II — Interactive Website" ([modernized-syntrometry.html](https://modernized-syntrometry.netlify.app))
 
 «The website versions are fully interactive and can be explored by expanding and collapsing branches.»
 
